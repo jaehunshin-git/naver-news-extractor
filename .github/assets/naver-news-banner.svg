@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Naver News Article Extractor</title>
+  <desc id="description">네이버 뉴스 URL에서 제목과 본문을 추출하는 Python 도구</desc>
+  <rect width="1200" height="300" fill="#f4fbf7"/>
+  <path d="M0 0h356l154 150-154 150H0z" fill="#03c75a"/>
+  <path d="M834 0h366v300H834l-116-150z" fill="#d9f7e7"/>
+  <rect x="64" y="64" width="172" height="172" rx="30" fill="#ffffff"/>
+  <path d="M104 195V105h28l35 45v-45h29v90h-27l-36-47v47z" fill="#03c75a"/>
+  <g fill="#0f172a" text-anchor="middle">
+    <text x="600" y="122" font-family="Pretendard, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">NAVER NEWS</text>
+    <text x="600" y="169" font-family="Pretendard, Arial, sans-serif" font-size="30" font-weight="600">기사 제목과 본문을 깔끔하게 추출합니다</text>
+  </g>
+  <g font-family="Pretendard, Arial, sans-serif" font-size="25" font-weight="700">
+    <rect x="360" y="203" width="150" height="48" rx="24" fill="#ffffff" stroke="#03c75a" stroke-width="3"/>
+    <text x="435" y="235" fill="#00843d" text-anchor="middle">NEWS URL</text>
+    <path d="M534 227h48" stroke="#03c75a" stroke-width="4" stroke-linecap="round"/>
+    <path d="m572 215 12 12-12 12" fill="none" stroke="#03c75a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="608" y="203" width="232" height="48" rx="24" fill="#0f172a"/>
+    <text x="724" y="235" fill="#ffffff" text-anchor="middle">ARTICLE TEXT</text>
+  </g>
+  <g transform="translate(917 72)">
+    <rect width="166" height="156" rx="16" fill="#ffffff" stroke="#03c75a" stroke-width="4"/>
+    <rect x="24" y="26" width="64" height="14" rx="7" fill="#03c75a"/>
+    <rect x="24" y="61" width="118" height="10" rx="5" fill="#b8c9bf"/>
+    <rect x="24" y="85" width="102" height="10" rx="5" fill="#b8c9bf"/>
+    <rect x="24" y="109" width="118" height="10" rx="5" fill="#b8c9bf"/>
+  </g>
+</svg>
